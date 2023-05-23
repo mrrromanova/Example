@@ -1,0 +1,15 @@
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\bin\Debug\net6.0\Example001_HelloworldConsole.exe
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\bin\Debug\net6.0\Example001_HelloworldConsole.deps.json
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\bin\Debug\net6.0\Example001_HelloworldConsole.runtimeconfig.json
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\bin\Debug\net6.0\Example001_HelloworldConsole.dll
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\bin\Debug\net6.0\Example001_HelloworldConsole.pdb
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\Example001_HelloworldConsole.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\Example001_HelloworldConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\Example001_HelloworldConsole.AssemblyInfoInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\Example001_HelloworldConsole.AssemblyInfo.cs
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\Example001_HelloworldConsole.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\Example001_HelloworldConsole.dll
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\refint\Example001_HelloworldConsole.dll
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\Example001_HelloworldConsole.pdb
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\Example001_HelloworldConsole.genruntimeconfig.cache
+C:\Users\roman\OneDrive\Рабочий стол\C# begining\Hello_world_Console\Example001_HelloworldConsole\obj\Debug\net6.0\ref\Example001_HelloworldConsole.dll
